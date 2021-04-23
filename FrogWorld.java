@@ -79,16 +79,16 @@ public class FrogWorld extends World
     {
         //first row of Trucks, all y = 210, speed of -8
          addObject (new Truck(-10), 35, 210);
-         addObject (new Truck(-10), 230, 210);
-         addObject (new Truck(-10), 430, 210);
+         addObject (new Truck(-10), 280, 210);
+         addObject (new Truck(-10), 530, 210);
         //second row of Trucks, all y = 150, speed of -8
          addObject (new Truck(-12), 35, 150);
-         addObject (new Truck(-12), 235, 150);
-         addObject (new Truck(-12), 435, 150);
+         addObject (new Truck(-12), 285, 150);
+         addObject (new Truck(-12), 535, 150);
         //third row of Trucks, all y = 90, speed of 10
          addObject (new Truck(-16), 35, 90);
-         addObject (new Truck(-16), 230, 90);
-         addObject (new Truck(-16), 430, 90);
+         addObject (new Truck(-16), 280, 90);
+         addObject (new Truck(-16), 530, 90);
         
     }
 }
